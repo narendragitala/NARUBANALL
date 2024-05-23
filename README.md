@@ -5,6 +5,10 @@
   <img src="https://telegra.ph/file/3ef2cc0ad2bc548bafb30.jpg">
 
 </p>
+<p align="center">
+<a href="https://heroku.com/deploy?template=https://github.com/narendragitala/NARUBANALL">
+<img src="AdityaHalder/resource/images/Heroku.svg" alt="Deploy to Heroku"></a>
+</p>
 
 <h3 align="center"><strong><code>𝐍𝐀𝐑𝐔𝐉𝐀𝐀𝐓 𝐀𝐋𝐋𝐁𝐀𝐍 𝐁𝐎𝐓 😈</code></strong></h3>
 <blockquote>
